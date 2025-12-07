@@ -1,6 +1,7 @@
 #[allow(unused_imports)]
 use super::d00s1::*;
 use super::solutions::final_answer;
+use super::solutions::input_raw;
 
 const DAY: u8 = 00;
 const SOL: u8 = 2;
